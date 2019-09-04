@@ -1,6 +1,7 @@
-module safe.desktop {
+module SafeSoftDesktop {
     requires javafx.fxml;
     requires javafx.controls;
+    requires javafx.graphics;
 
-    opens authWindow;
+    opens Main;
 }

@@ -1,4 +1,4 @@
-package authWindow;
+package Main;
 
 public class Controller {
 }
