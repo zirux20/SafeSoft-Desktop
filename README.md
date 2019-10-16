@@ -14,8 +14,6 @@ Repositorio para la aplicación de [SafeSoft](https://github.com/users/KBeDevelo
 
 [Nicolás Álvarez (GearlessCrow)](https://github.com/GearlessCrow)
 <br>
-Esteban Arriagada
+[Esteban Arriagada](https://github.com/zirux20)
 <br>
 [Benjamín Calisto (KBeDeveloper)](https://github.com/KBeDeveloper)
-<br>
-[Luis Cereceda (luiscereceda)](https://github.com/luiscereceda)
